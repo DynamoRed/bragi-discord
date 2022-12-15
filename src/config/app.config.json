@@ -1,0 +1,5 @@
+{
+	"shorten": "/bragi/shorten",
+	"get": "/bragi/{code}",
+	"authorization": "/authorization/{uuid}"
+}
